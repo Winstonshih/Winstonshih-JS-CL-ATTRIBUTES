@@ -11,7 +11,7 @@ button.onclick = setImageSrc;
  * TODO: Use the image and input references to set the "src" attribute on the image element to the current value of the input element.
  */
 function setImageSrc() {
-    // Write your code here...
+    image.src=input.value
     
 }
 
